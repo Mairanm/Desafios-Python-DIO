@@ -2,6 +2,8 @@
 Bootcamp Santander Analise de Dados com Python: Soluções de desafios de código e lógica de programação em Python.
 Este repositório contém minhas soluções para desafios de lógica de programação e análise de dados, desenvolvidos durante minha jornada de estudos em Python e Data Analytics.
 
+---
+
 ## 🚀 Tecnologias Utilizadas
 * **Python 3**
 * Lógica de Programação
@@ -27,6 +29,17 @@ Gerar um relatório de toneladas exportadas por país, respeitando a ordem de in
 **O que aprendi:**
 * Iteração sobre dicionários mantendo a ordem de inserção.
 * Tratamento de entradas de dados (split, strip).
+
+---
+
+### 3. Calculadora de Reajuste Salarial
+**O Desafio:**
+Aplicar aumentos salariais diferenciados baseados na faixa de renda atual dos colaboradores.
+
+**O que aprendi:**
+* Lógica condicional (`if`, `elif`, `else`).
+* Cálculos matemáticos com porcentagem.
+* Formatação de casas decimais (f-strings).
 
 ---
 
