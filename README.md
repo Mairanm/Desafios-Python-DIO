@@ -14,7 +14,6 @@ Este repositório contém minhas soluções para desafios de lógica de programa
 ### 1. Relatório de Embalagens (`01-analise-dados`)
 **O Desafio:**
 Uma empresa de embalagens precisa contabilizar o total solicitado para cada tipo de material ("saco", "papelão", etc) a partir de uma lista de pedidos desordenada.
-
 **O que aprendi:**
 * Manipulação de Dicionários em Python.
 * Acumulação de valores condicionais.
