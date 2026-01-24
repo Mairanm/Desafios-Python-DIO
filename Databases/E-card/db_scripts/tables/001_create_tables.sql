@@ -21,8 +21,8 @@ CREATE TABLE tbl_cards (
     id SERIAL PRIMARY KEY,
     hp INT,
     name VARCHAR(100) NOT NULL,
-    type_id INT,    -- Coluna que vai receber o ID do tipo
-    stage_id INT,   -- Coluna que vai receber o ID do estágio
+    type_id INT,    
+    stage_id INT,  
     info TEXT,
     attack VARCHAR(100),
     damage VARCHAR(10),
